@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Arthur, a Bachelor of Economics with a passion for data-driven solutions. 👨‍💼
+I'm Arthur, an economist with a passion for data-driven solutions. 👨‍💼
 
 ## 📚 Academic Background
 
