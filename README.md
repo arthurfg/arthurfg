@@ -11,7 +11,7 @@ I'm Arthur, a Bachelor of Economics with a passion for data-driven solutions. �
 
 ## 💼 Professional Experience
 
-- 🤖 Currently work as Data Engineer I at Base Dos Dados (BD+), building data pipelines to automate ELT processes with Prefect and DBT to maintain the BD+ public datalake
+- 🤖 Currently, I work as a Data Engineer I at Database (BD+), building data pipelines to automate ELT processes with Prefect and DBT to maintain BD+'s public database
 - 📊 Producing analyses and reports for BD+ partners and the community
 - 📈 Fellowship at the IBRE-FGV National Accounts Center, as an economic data analyst, helping the team to implement econometric methods to improve the results of the GDP Monitor series (FGV)
 
