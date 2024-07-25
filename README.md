@@ -5,7 +5,7 @@ I'm Arthur, an economist with a passion for data-driven solutions.
 ## 💼 Professional Experience
 
 - Currently, I work as a Data Engineer at Capim, a brazilian fintech, where I am responsible for the data infrastructure (Hevo, DBT, Snowflake, Lambda's, ECS)
-- Worked as Data Engineer at Base dos Dados (BD), building data pipelines to automate ELT processes with Prefect and DBT to maintains the largest public datalake in latin america.
+- Worked as Data Engineer at Base dos Dados (BD), building data pipelines to automate ELT processes with Prefect and DBT to maintains the largest public datalake in latin america
 - Fellowship at the IBRE-FGV National Accounts Center, as an economic data analyst, helping the team to implement econometric methods to improve the results of the GDP Monitor series (FGV)
 
 ## 📚 Academic Background
